@@ -8,7 +8,7 @@ const Download = () => {
       <div className={`${styles.subSection} flex-col text-center`}>
             <div>
               <h1 className={`${styles.h1Text} ${styles.blackText}`}>Download the APK file</h1>
-              <button className={styles.btnPrimary}>  <a href="https://expo.dev/artifacts/267aa632-6394-42fd-8cb7-82106d329cc4">Download APK</a></button>
+              <button className={styles.btnPrimary}>  <a href="https://expo.dev/artifacts/eas/uaZitW529BPuxi5fMiJaN6.apk">Download APK</a></button>
               <h1 className={`${styles.pText} ${styles.blackText}`}>Get the full source code on GitHub</h1>
             </div>
             <button className={styles.btnPrimary}><a href="https://github.com/deniswachira/NFT_Marketplace_MobileApp">Source Code</a></button>
